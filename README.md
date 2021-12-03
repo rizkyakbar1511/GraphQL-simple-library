@@ -1,8 +1,6 @@
 # GraphQL-simple-library
 
-1. make a new folder from local & clone this repo
-2. cd <YOUR_NEW_LOCAL_FOLDER> -> cd client & server
-3. npm install
+Just a simple graphql practice app
 
 Screenshots :
 
